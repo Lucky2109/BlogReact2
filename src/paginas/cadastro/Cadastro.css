@@ -1,0 +1,12 @@
+.fundoCadastro {
+    background-image: url(../../assets/darling.png);
+    
+      background-repeat: no-repeat;
+      width: 100%;
+      min-height: 100vh;
+      background-size: cover;
+      background-position: center;
+  }
+  .degrade{
+    background: linear-gradient(to bottom,  rgba(32,46,247,1) 0%,rgba(193,70,161,1) 53%,rgba(168,0,119,1) 79%,rgba(168,0,119,1) 91%,rgba(168,0,119,1) 91%,rgba(219,54,164,1) 100%);
+  }

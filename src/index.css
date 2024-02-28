@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Monte';
+    src: local('Monte'), url(./assets/fonts/Montserrat-Italic-VariableFont_wght.ttf) format('truetype');
+  }
